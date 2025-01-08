@@ -1,6 +1,6 @@
 # Chat App
 
-A modern and interactive chat application built with **TypeScript**, **Tailwind CSS**, and **Vite**. The app leverages **Storybook** for unit testing and offers a rich set of features, including sending, downloading, and editing images, as well as file sharing.
+A modern and interactive chat application built with **TypeScript**, **Tailwind CSS**, and **Vite**. The app leverages **[Storybook](https://chat-app-pxmb.vercel.app/)** for unit testing and offers a rich set of features, including sending, downloading, and editing images, as well as file sharing.
 
 ## Features
 
@@ -20,14 +20,14 @@ A modern and interactive chat application built with **TypeScript**, **Tailwind 
   - Utilizes **Zustand** for efficient chat state management.
 
 - **Testing**:
-  - **Storybook** is used for component-level unit tests.
+  - **[Storybook](https://chat-app-pxmb.vercel.app/)** is used for component-level unit tests.
 
 ## Tech Stack
 
 - **TypeScript**: Provides static typing for safer and more reliable code.
 - **Tailwind CSS**: For fast and efficient UI styling.
 - **Vite**: Ensures a lightning-fast development experience.
-- **Storybook**: Allows for isolated testing and documentation of UI components.
+- **[Storybook](https://chat-app-pxmb.vercel.app/)**: Allows for isolated testing and documentation of UI components.
 - **Zustand**: Lightweight state management solution.
 
 ## Folder Structure
@@ -79,7 +79,7 @@ Ensure you have the following installed:
 
 ### Running Tests
 
-To run unit tests with Storybook:
+To run unit tests with [Storybook](https://chat-app-pxmb.vercel.app/):
 
 ```bash
 npm run storybook
